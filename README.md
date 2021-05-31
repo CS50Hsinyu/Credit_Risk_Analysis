@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-There six machines learning models are built in the project to predict credit risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, we will use imbalanced-learn and scikit-learn libraries to train and evaluate models with unbalanced classes. Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, here are we will apply below:
+There six machines learning models are built in the project to predict credit risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, we will use imbalanced-learn and scikit-learn libraries to train and evaluate models with unbalanced classes. Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company. Below are models we will apply:
 
 1. RandomOverSampler (oversampling)
 2. SMOTE (oversampling)
@@ -65,7 +65,7 @@ There six machines learning models are built in the project to predict credit ri
 ## Summary
 1. Accurancy:
 
-   Model of Easy Ensemble AdaBoost Classifier provides the highest accurancy,93%, among six models.
+   Model of Easy Ensemble AdaBoost Classifier provides the highest accurancy, 93%, among six models.
 
 ![accurancy_resample](Resources/accurancy_resample.PNG)
 
